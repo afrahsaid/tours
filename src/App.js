@@ -4,7 +4,8 @@ import Loading from './Loading';
 import Tours from './Tours';
 import './index.css';
 
-const url='https://course-api.com/react-tours-project';
+const url='https://www.course-api.com/react-tours-project';
+
 
 function App(){
     const [loading, setLoading]=useState(false);
